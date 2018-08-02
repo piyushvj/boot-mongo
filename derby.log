@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Wed Aug 01 22:19:34 IST 2018:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.1.0 - (1808820): instance a816c00e-0164-f665-08cb-00000a11b188 
+on database directory memory:E:\programming\projects\Spring-Boot-Projects\boot-mongo\testdb with class loader sun.misc.Launcher$AppClassLoader@18b4aac2 
+Loaded from file:/C:/Users/Sony/.m2/repository/org/apache/derby/derby/10.14.1.0/derby-10.14.1.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_131-b11
+user.dir=E:\programming\projects\Spring-Boot-Projects\boot-mongo
+os.name=Windows 8.1
+os.arch=amd64
+os.version=6.3
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
